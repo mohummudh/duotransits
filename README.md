@@ -2,6 +2,8 @@
 
 Data reduction: going from getting feasible targets from the TOI catalogue to getting aliases for each target, to scheduling observations.
 
+add: information about transits, duotransits, TESS, creating aliases to find orbital periods.
+
 ## TOIcatalogue
 This folder shows the process of reducing the TESS Objects of Interest (TOI) catalogue to get a list of duotransits (targets with two observed transits) observable from the Windmill Hill Observatory at the University of Warwick. Reducing the data from 6739 candidates to only 10 possible targets (Dataset from https://tev.mit.edu/data/collection/193/). 
 

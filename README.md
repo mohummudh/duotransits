@@ -23,7 +23,7 @@ This folder shows the process of reducing the TESS Objects of Interest (TOI) cat
 This folder contains a notebook going through the process for cleaning the lightcurves and obtaining aliases for a TESS object of interest (in this code TIC26547036). 
 
 ## solvedTIC276376289 - the solved system
-This folder contains a notebook going through the same process, here I have shown the system I solved, finding the orbital period for the target (TIC276376289). Further observations of the planet-star system can help confirm this prediction and the target can move closer to being confirmed as an exoplanet. 
+This folder contains a notebook going through the same process, here I have shown the system I solved, finding the orbital period for the target (TIC276376289). We later found that this system had been confirmed as an eclipsing binary system, and thus was retired as an exoplanet candidate - still we were successful in determining an orbital period of 30.1174 days was found; and the same value is given in a recent SPOC DV report.
 
 ## on the ground
 These aliases them formed the basis for creating an observing strategy and schedule to confirm or exclude these possible orbital periods in a step-wise manner, narrowing down onto the true orbital period of the system - a crucial step in confirming exoplanet candidates.

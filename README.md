@@ -8,7 +8,7 @@ This project assessed the feasibility of utilising the Windmill Hill Observatory
 
 When we observe an exoplanetary system nearly edge-on, the planet periodically passes in front of the star, causing an eclipse known as a transit. During this event, the observed brightness (measured as flux) of the star decreases from its baseline as the planet blocks some of the light. In recent years, searching for these transits has proven to be a productive means of discovering new planets, a method known as the transit method. The transit method involves detecting dips in the visible light of stars and requires that planets pass in front of stars along our line of sight. Transit photometry, which records the flux of an object over a given period, provides a wealth of information about a planet.
 
-[TransitFigure.pdf](https://github.com/mohummudh/duotransits/files/12705868/TransitFigure.pdf)
+<img width="515" alt="Screenshot 2023-09-18 at 17 04 36" src="https://github.com/mohummudh/duotransits/assets/137917845/cd058a88-b43f-47be-a13f-5b8f0051602f">
 
 ### duotransits and their aliases
 
